@@ -1,2 +1,5 @@
 venv
 venv/
+cicd_project/cicd_project/__pycache__
+cicd_project/cicd_project/__pycache__/*
+cicd_project/cicd_project/__pycache__/settings.cpython-38.pyc
